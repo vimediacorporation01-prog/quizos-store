@@ -2,7 +2,8 @@
 {
   "lastUpdate": "Hari Ini",
   "message": "Market Sudah Buka!",
-  "apps": [
+  "apps": 
+  [
     {
       "id": "com.elinaexperience.qapp",
       "name": "Elina experience",
