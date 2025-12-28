@@ -1,7 +1,16 @@
+
 {
-  "lastUpdate": "2025-01-01",
-  "message": "Selamat datang di QuizOS Official Store",
+  "lastUpdate": "Hari Ini",
+  "message": "Market Sudah Buka!",
   "apps": [
-    
+    {
+      "id": "com.elinaexperience.qapp",
+      "name": "Elina experience",
+      "description": "Ngobrol bareng Elina yuk!",
+      "icon": "fa-comment",
+      "color": "#ff69b4",
+      "version": "1.0",
+      "downloadUrl": "PASTE_LINK_RAW_YANG_TADI_DICOPY_DISINI"
+    }
   ]
 }
