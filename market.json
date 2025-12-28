@@ -13,14 +13,5 @@
       "version": "1.0",
       "downloadUrl": "https://raw.githubusercontent.com/vimediacorporation01-prog/quizos-store/refs/heads/main/apps/elina_experience.qapp.json"
     }
- {
-  "id": "com.grapichsspreadtest.qapp",
-  "name": "Grapichs Spreadtest",
-  "description": "Ayo uji kekuatan grafis!",
-  "icon": "fa-chart-area",
-  "color": "#ffff00",
-  "version": "1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/vimediacorporation01-prog/quizos-store/refs/heads/main/apps/grapichs_spreadtest.qapp.json"
-    }
   ]
 }
